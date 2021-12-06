@@ -7,6 +7,7 @@ public class MyComponent : MonoBehaviour
 
     private void Start()
     {
+        print ("coucou");
     }
 
     private void Update()
